@@ -1,5 +1,5 @@
 # PaddleRobotics
-paddleRobotics是一个基于paddle的机器人算法库，包括人机交互、复杂运动控制、环境感知、slam定位导航等开源部分。
+paddleRobotics是一个基于paddle的机器人开源算法库，包括人机交互、复杂运动控制、环境感知、slam定位导航等开源部分。
 
 ## 人机交互
 #### 主动多模交互技术
