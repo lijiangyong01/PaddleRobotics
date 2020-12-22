@@ -1,4 +1,4 @@
- English | [简体中文](README_en.md)
+ English | [简体中文](README.md)
 
 # PaddleRobotics
 * paddleRobotics is an open source algorithm library for robots based on paddle, including open source parts such as human-computer interaction, complex motion control, environment perception, slam positioning and navigation.
