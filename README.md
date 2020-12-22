@@ -1,4 +1,4 @@
-English | [简体中文](README.md)
+[English](README_en.md) | 简体中文(README.md)
 
 # PaddleRobotics
     paddleRobotics是基于paddle的机器人开源算法库集，包括人机交互、复杂运动控制、环境感知、slam定位导航等开源算法部分。
